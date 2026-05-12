@@ -1,0 +1,5 @@
+CREATE DATABASE PawnShopDB;
+GO
+
+USE PawnShopDB;
+GO

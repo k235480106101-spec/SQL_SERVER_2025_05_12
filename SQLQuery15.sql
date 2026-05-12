@@ -1,0 +1,1 @@
+SELECT dbo.fn_CalcMoneyContract(1, GETDATE())
